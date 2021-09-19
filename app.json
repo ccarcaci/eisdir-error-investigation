@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ExplorationProject",
-    "slug": "ExplorationProject",
+    "name": "Eisdir Error Investigation",
+    "slug": "EisdirErrorInvestigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
